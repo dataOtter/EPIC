@@ -24,9 +24,8 @@ http://www.urban.org/publications/413047.html
 
 Technical notes -- this project was compiled last under Netbeans 7.2.1, using JDK 1.7
 
-The libraries and software listed below are required to compile and run this software.  
-The libraries and software listed below are available in the public domain; users
-whos wish to use EPIC must downloaded these libraries separately, as they are not 
+The public domain libraries and software listed below are required to compile and run this software.  
+Users who wish to use EPIC must downloaded these libraries separately, as they are not 
 included in this repository:
 
 THIRD PARTY LIBRARIES NEEDED:
