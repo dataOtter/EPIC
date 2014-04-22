@@ -24,6 +24,11 @@ http://www.urban.org/publications/413047.html
 
 Technical notes -- this project was compiled last under Netbeans 7.2.1, using JDK 1.7
 
+The libraries and software listed below are required to compile and run this software.  
+The libraries and software listed below are available in the public domain; users
+whos wish to use EPIC must downloaded these libraries separately, as they are not 
+included in this repository:
+
 THIRD PARTY LIBRARIES NEEDED:
 netlib-java-0.9.1.jar; 
 arpack-combo-0.1.jar; 
@@ -31,10 +36,9 @@ mtj-0.9.14.jar;
 JDK 1.7
 
 Also needed, standard Linux (e.g. Ubuntu 12.04) utilities:
-CSH, SH, TCSH SED, GREP, AWK, WC, GNUPLOT
+CSH, SH, TCSH, SED, GREP, AWK, WC, GNUPLOT
 
 ADDITIONAL SOFTWARE REQUIRED:
 lp_solve version 5.5
 
-The above software is part of the public domain; it must be downloaded 
-separately, and is not part of this repository.
+
