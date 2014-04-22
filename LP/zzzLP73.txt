@@ -1,0 +1,6 @@
+check_solution: Constraint R1 =     0.617592296794 is above its equality of                  0
+check_solution: Constraint row6 =      11014182974.7 is below its equality of        12261184011
+check_solution: Constraint normalized_divergence6 =     -1247001036.33 is below its equality of                  0
+
+Seriously low accuracy found ||*|| = 1.247e+09 (rel. error 1)
+lp_solve failed

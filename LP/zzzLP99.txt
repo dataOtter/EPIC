@@ -1,0 +1,6 @@
+check_solution: Constraint normalized_divergence0 =  0.000727025690142 is above its equality of                  0
+check_solution: Constraint normalized_divergence8 = -0 is below its equality of                  0
+check_solution: Constraint normalized_divergence10 = -0.000173642648318 is below its equality of                  0
+
+Seriously low accuracy found ||*|| = 0.00815582 (rel. error 0.000726498)
+lp_solve failed

@@ -1,0 +1,13 @@
+check_solution: Constraint R1 =      2482.94058287 is above its equality of                  0
+check_solution: Constraint row0 = -2.05384836477e+12 is below its equality of        13213834503
+check_solution: Constraint normalized_divergence0 = -2.06706219928e+12 is below its equality of                  0
+check_solution: Constraint normalized_divergence1 =   -0.0495696181294 is below its equality of                  0
+check_solution: Constraint normalized_divergence5 =   -0.0022669169861 is below its equality of                  0
+check_solution: Constraint normalized_divergence7 =    0.0548653846452 is above its equality of                  0
+check_solution: Constraint row11 =       5990081726.7 is below its equality of        12016009403
+check_solution: Constraint normalized_divergence11 =     -6025927676.29 is below its equality of                  0
+check_solution: Constraint normalized_divergence12 =    -0.001260019459 is below its equality of                  0
+check_solution: Constraint normalized_divergence13 =  -0.00208178428115 is below its equality of                  0
+
+Seriously low accuracy found ||*|| = 2.06706e+12 (rel. error 1)
+lp_solve failed
