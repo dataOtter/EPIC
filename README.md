@@ -22,3 +22,26 @@ titled "Estimating the Size and Structure of the Underground Commercial Sex
 Economy in Eight Major US Cities", which can be found here:
 
 http://www.urban.org/publications/413047.html
+
+Technical notes -- this project was compiled last under Netbeans, using JDK 1.7
+
+THIRD PARTY LIBRARIES NEEDED:
+
+netlib-java-0.9.1.jar
+arpack-combo-0.1.jar
+mtj-0.9.14.jar
+JDK 1.7
+
+OTHER PROGRAMS NEEDED:
+
+Standard UBUNTU 12.04 utilities:
+CSH, SH, TCSH
+SED, GREP, AWK, WC
+GNUPLOT
+
+ADDITIONAL SOFTWARE REQUIRED:
+
+lp_solve version 5.5
+
+The above software is part of the public domain; it must be downloaded 
+separately, and is not part of this repository.
