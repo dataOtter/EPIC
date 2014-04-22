@@ -16,3 +16,9 @@ Under no circumstances shall the authors be liable for direct, indirect,
 special, incidental, or consequential damages resulting from the use, misuse, 
 or inability to use this software, even if the authors have been advised of 
 the possibility of such damages.
+
+Details of the algorithms can be found in the methods chapter of the project report
+titled "Estimating the Size and Structure of the Underground Commercial Sex 
+Economy in Eight Major US Cities", which can be found here:
+
+http://www.urban.org/publications/413047.html
